@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Footer_cmp.qml</file>
+        <file>Bt.qml</file>
+        <file>Backspace.qml</file>
+        <file>Content_cmp.qml</file>
+    </qresource>
+</RCC>
